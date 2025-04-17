@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" />
+  <title>未來夢想</title>
+  <style>
+    body { font-family: sans-serif; background: #fff; padding: 2rem; }
+    nav { background: #2563eb; padding: 1rem; text-align: center; }
+    nav a { color: white; margin: 0 1rem; text-decoration: none; font-weight: bold; }
+    h2 { color: #1e3a8a; }
+    img { max-width: 100%; border-radius: 10px; margin-top: 1rem; }
+  </style>
+</head>
+<body>
+  <nav>
+    <a href="首頁.html">首頁</a>
+    <a href="短期目標.html">短期目標</a>
+    <a href="最有興趣的事.html">興趣</a>
+    <a href="目前階段的困擾.html">困擾</a>
+  </nav>
+  <h2>我的未來夢想</h2>
+  <p>我的未來夢想是，成為HTML專業使用者。</p>
+  <img src="default.jpg" alt="未來夢想圖片">
+</body>
+</html>
